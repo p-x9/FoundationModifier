@@ -1,3 +1,3 @@
 # FoundationModifier
 
-A description of this package.
+Allows `Foundation` classes to be write by method chains.
